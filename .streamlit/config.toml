@@ -1,5 +1,5 @@
 [theme]
 backgroundColor = "rgb(229, 244, 255)"          # Light baby blue for the main page
-secondaryBackgroundColor = "rgb(192, 228, 251)" # Dark slate/navy blue for the sidebar
+secondaryBackgroundColor = "rgb(209, 233, 248)" # Dark slate/navy blue for the sidebar
 textColor = "#0F172A"                # Dark text so it reads clearly on baby blue
-primaryColor = "#1b609c"             # Royal blue for sliders and interactive elements
+primaryColor = "#1b77c7"             # Royal blue for sliders and interactive elements
