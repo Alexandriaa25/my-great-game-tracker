@@ -7,7 +7,7 @@ A live Streamlit dashboard built to track PC game sales, calculate dollar discou
 
 ## 💡 About this Project
 
-As a student and YouTube content creator who covers video games, finding affordable games to invest in for my channel is super important to keep things manageable. I built this tool to automate price monitoring so I can quickly identify high-value game deals without manually checking Steam every day.
+As a student and YouTube content creator in the gaming niche, finding affordable games to invest in for my channel is super important to keep things manageable. I built this tool to automate price monitoring so I can quickly identify high-value game deals without manually checking Steam every day.
 
 By querying the CheapShark REST API, this dashboard filters quality games by checking budget conditions and Steam user ratings to find games at the best price point.
 
