@@ -9,7 +9,7 @@ st.set_page_config(page_title="Game Deal Tracker", layout="wide")
 
 # put the title/center it 
 st.markdown("<h1 style='text-align: center;'> 🎮 Video Game Deal Tracker 🎮</h1>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center; color: #888888;'>Monitoring real-time video game sales using the CheapShark REST API! 🦈🤍</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: #888888;'>Monitoring real-time video game sales using the CheapShark REST API! 🦈</p>", unsafe_allow_html=True)
 st.markdown("---") # Add a chorizontal dividing line
 
 
