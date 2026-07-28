@@ -1,4 +1,4 @@
-# 🎮 Real-Time Video Game Sale Tracker for Content Creators, Gamers, and More 
+# 🎮[Real-Time Video Game Sale Tracker for Content Creators, Gamers, and More](https://my-great-game-tracker.streamlit.app/)
 
 
 A live Streamlit dashboard built to track PC game sales, calculate dollar discounts, and display highly rated discounted games in real time. Save lots of money by checking this dashboard to find games you love!
