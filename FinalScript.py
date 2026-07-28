@@ -35,7 +35,7 @@ def extract_raw_deals():
 
 #type cast with a schema
 def transform_deal_data(deals):
-    # If the extraction step failed and gave us an empty list, stop immediately
+    # If the extraction step failed and returned an empty list stop 
     if not deals:
         return pd.DataFrame()
 
